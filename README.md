@@ -61,7 +61,7 @@ Målet er å gjøre seg selv overflødig. Suksess betyr at du ikke trenger oss l
 
 Har du spørsmål, tilbakemeldinger eller trenger hjelp?
 
-- **E-post:** [edru.app@gmail.com](mailto:edru.app@gmail.com)
+- **E-post:** [natnael47@gmail.com](mailto:natnael47@gmail.com)
 - **GitHub Issues:** [Rapporter et problem](https://github.com/natti1399/edru/issues)
 
 ---
