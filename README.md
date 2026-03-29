@@ -8,7 +8,7 @@
 
 <br>
 
-[<img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Last ned fra App Store" height="60">](https://apps.apple.com/app/edru/id6759224690)
+[<img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Last ned fra App Store" height="60">](https://apps.apple.com/no/app/edru/id6759224690)
 
 </div>
 
